@@ -7,4 +7,9 @@ members:
 - William
 - David
 - George
+<<<<<<< HEAD
 - Freddie
+=======
+
+coach: Grace
+>>>>>>> add-coach
